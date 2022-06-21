@@ -1,0 +1,11 @@
+server:
+  port: 8083
+
+spring:
+  data:
+    mongodb:
+      database: products
+      port: 27017
+      host: localhost
+logging:
+   conifg: logback.xml
