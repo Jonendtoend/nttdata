@@ -1,0 +1,16 @@
+com\bootcamp\repository\PersonRepository.class
+com\bootcamp\service\impl\CompanyServiceImpl.class
+com\bootcamp\controller\PersonController.class
+com\bootcamp\service\AbstractService.class
+com\bootcamp\dao\Person.class
+com\bootcamp\handler\RestExceptionHandler.class
+com\bootcamp\repository\CompanyRepository.class
+com\bootcamp\dao\Client.class
+com\bootcamp\service\PersonService.class
+com\bootcamp\handler\ClientException.class
+com\bootcamp\ServiceClientApplication.class
+com\bootcamp\controller\CompanyController.class
+com\bootcamp\handler\json\JsonError.class
+com\bootcamp\dao\Company.class
+com\bootcamp\service\impl\PersonServiceImpl.class
+com\bootcamp\service\CompanyService.class
